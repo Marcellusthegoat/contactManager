@@ -3,4 +3,5 @@ pymongo
 dnspython
 werkzeug
 gunicorn
+flask_pymongo
 certifi
